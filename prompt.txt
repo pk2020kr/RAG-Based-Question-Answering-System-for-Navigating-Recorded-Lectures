@@ -1,0 +1,6 @@
+I am teaching Investment Banking in my course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Introduction to Deep Learning","start":74.7,"end":76.98,"text":" So what is deep learning?"},{"title":"Introduction to Deep Learning","start":1245.84,"end":1248.04,"text":" So what's deep learning today?"},{"title":"Introduction to Deep Learning","start":733.04,"end":737.92,"text":" Why are we all interested in things like deep learning?"},{"title":"Introduction to Deep Learning","start":610.8,"end":612.96,"text":" So it's a deep learning class."},{"title":"Introduction to Deep Learning","start":2441.28,"end":2447.22,"text":" So what do we know about what is possible to approximate with deep learning?"}]
+---------------------------------
+"What is deep learning?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
