@@ -37,6 +37,8 @@ A RAG (Retrieval-Augmented Generation) AI teaching assistant that helps students
 
 3. Create required directories:
 
+![blueprint](https://github.com/user-attachments/assets/d16036e9-8e8d-4693-9742-a1978964d1ea)
+
 ## Usage
 
 ### Step 1: Collect Your Videos
